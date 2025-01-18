@@ -41,8 +41,8 @@ void setup() {
 }
 
 void loop() {
-  // Obstacle();
-  Bluetoothcontrol();
+  Obstacle();
+  // Bluetoothcontrol();
   // voicecontrol();
 }
 
